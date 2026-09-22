@@ -1,0 +1,20 @@
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+p {
+    padding: 1em;
+    color: navy;
+    text-align: center;
+}
+
+img {
+    border: 2px solid #ddd;
+    display: block;
+    margin: 0 auto;
+    width: 33.33%;
+
+}
+
